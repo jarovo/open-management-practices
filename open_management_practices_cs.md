@@ -12,31 +12,33 @@
 
 **Proč: Naše kultura je a zdrojem strategické konkurenční výhody, a důvodem proč mnoho zaměstnanců volí Red Hat.**
 
-### Otevřený manažer *dělá*
+### Otevření manažeri *dělají*
 
-- Vede příkladem tím, že žije hodnotami Red Hatu (svoboda, odvaha, závazek a zodpovědnost) v rovnováze.
-- Uznává a odměňuje zaměstnance, kteří konzistentně prokazují hodnoty Red Hatu. Je vzorem chování jako Red Hat Multiplier (spojuje, rozšiřuje důveru, je transparentní, spolupracuje a prosazuje inkluzivní meritokracii)
-- Povzbuzuje vůdcovství jednotlivců na všech úrovních podle zájmů a předností každého z uchazečů.
-- Prokazuje etické chování a jedná s integritou (čestně, bezůhonně).
-- Podněcuje ke spolupráci v týmu, mezi týmy, and v komunitách.
-- Ustanovuje rovnováhu mezi sdílenými standardy a procesy a svobodou jednotlivce a znovu-vyhodnocuje v čase tak, jak se podmínky vyvíjejí
-- Podporuje zůčastnování-se týmu na kulturních aktivitách a událostech.
-- Uvědomuje si, že otevřené komunikační fora (napč memo-list) jsou klíčovými prvky kultury Red Hat. Podle potřeby se nechává vézt komunitou manažerů lidí (People Manger Comunity), managers-list a People teamem k tomu jak vézt v prostředí otevřené komunikace.
-- Rozumět a koučovat team k následování Online Communications Guidelines.
+- Vedou příkladem tím, že žijí hodnotami Red Hatu (svoboda, odvaha, závazek a zodpovědnost) v rovnováze.
+- Uznávají a odměňují zaměstnance, kteří konzistentně prokazují hodnoty Red Hatu. Jsou vzorem chování jako Red Hat Multiplier (spojují, rozšiřují důveru, jsou transparentní, spolupracují a prosazují inkluzivní meritokracii)
+- Povzbuzují vůdcovství jednotlivců na všech úrovních podle zájmů a předností každého z uchazečů.
+- Prokazují etické chování a jednají s integritou (čestně, bezůhonně).
+- Podněcují ke spolupráci v týmu, mezi týmy, and v komunitách.
+- Ustanovují rovnováhu mezi sdílenými standardy a procesy a svobodou jednotlivce a znovu-vyhodnocuje v čase tak, jak se podmínky vyvíjejí
+- Podporují zůčastnování-se týmu na kulturních aktivitách a událostech.
+- Uvědomují si, že otevřená komunikační fora (napč memo-list) jsou klíčovými prvky kultury Red Hat. Podle potřeby se nechávají vézt komunitou manažerů lidí (People Manger Comunity), managers-list a People teamem k tomu jak vézt v prostředí otevřené komunikace.
+- Rozumějí a koučují tým k následování Online Communications Guidelines.
 
 
-### Otevřený manažer *NE*dělá
+### Otevření manažeri *NE*dělají
 
- - Používá jednu z hodnot Red Hatu, aby podpořil svůj pohled bez zohlednění ostatních hodnot.
+ - Používají jednu z hodnot Red Hatu, aby podpořili svůj pohled bez zohlednění ostatních hodnot.
  - Brání uváženým výzvám proti statusu quo.
- - Používá moc, strach, nebo titul k tomu aby vedl.
- - Používá kulturu jako záminku k neakci. Kultura by měla být vzpomenuta jako počátek konverzace - včetně poskytnutí kontextu proč by některé akce měly být očekávány. 
+ - Používají moc, strach, nebo titul k tomu aby vedl.
+ - Používají kulturu jako záminku k neakci. Kultura by měla být vzpomenuta jako počátek
+   konverzace - včetně poskytnutí kontextu proč by některé akce měly být očekávány. 
    Raději než jako konec konverzace.
- - Odrazuje nebo zakazuje týmu používat otevřené komunikační fora jako jsou memo-list nebo chat.
+ - Odrazují nebo zakazuje týmu používat otevřené komunikační fora jako jsou memo-list nebo chat.
+
 
 ## Inspirování ke sdílenému záměru
 
-**Why: Individuals are inspired to do their best work when they are connected to something bigger than themselves.**
+**Proč: Lidé jsou inspirováni k vykonání nejlepší práce když jsou spojeni s něčím větším než jsou oni sami.**
 
 ### Open managers do
 
