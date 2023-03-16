@@ -25,7 +25,7 @@
 - Rozumějí a koučují tým k následování Online Communications Guidelines.
 
 
-### Otevření manažeri *NE*dělají
+### Otevření manažeri NEdělají
 
  - Používají jednu z hodnot Red Hatu, aby podpořili svůj pohled bez zohlednění ostatních hodnot.
  - Brání uváženým výzvám proti statusu quo.
@@ -40,16 +40,18 @@
 
 **Proč: Lidé jsou inspirováni k vykonání nejlepší práce když jsou spojeni s něčím větším než jsou oni sami.**
 
-### Open managers do
+### Otevření manažeři dělají:
 
-- Share your team's purpose and be clear on how your team's day-to-day activities support the Red Hat Why, and our mission, vision, and strategy.
-- Help each associate understand how their work contributes to the team, department, and Red Hat.
-- Share context on strategic and organizational messages from senior leaders and describe the impact to your team.
-- Openly address conflicting priorities, lack of alignment, and other tough issues.
+  - Sdílejí účel jejich týmu a vyjasňují jak každodenní činnosti jejich týmu podporují Red Hat Why, misi, vizi a strategii.
+    Pomáhají každému porozumět tomu, jak jeho práce přispívá týmu, jeho oddělení a firmě Red Hat.
+    Sdílejí kontext strategických a organizačních zpráv od vysokých vedoucích pracovníků a popisují dopad na jejich tým.
+    Otevřeně se vypořádají s konfliktními prioritami, nestejným směrováním a dalšími obtížnými problémy.
 
-### Open managers do not
+### Otevření manažeři NEdělají
 
-- Overlook or underestimate people's need to understand "why" in most situations or contribute their thoughts on various topics.
-- Make decisions without considering impact to other teams or the company.
-- Assume associates understand the context and reasons behind important decisions and announcements.
-- Use dismissive phrases such as "because I said so," "you don't need to know," "don't ask me why, just trust me," "you would not understand," "that's above your pay grade."
+    Přehlížejí nebo podceňují potřebu lidí porozumět "proč" ve většině situací.
+    Přehlížejí potřebu přispět svými myšlenkami k různým tématům.
+    Činí rozhodnutí bez zohlednění dopadu na jiné týmy nebo společnost.
+    Předpokládají, že spolupracovníci rozumí kontextu a důvodům důležitých rozhodnutí a oznámení.
+    Používají odmítavé fráze, jako jsou "protože jsem to řekl", "nemusíš to vědět",
+    "neptej se mě proč, jen mi věř", "nechápeš to", "to přesahuje tvou platovou třídu."
