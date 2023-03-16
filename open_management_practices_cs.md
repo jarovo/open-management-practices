@@ -43,15 +43,15 @@
 ### Otevření manažeři dělají:
 
   - Sdílejí účel jejich týmu a vyjasňují jak každodenní činnosti jejich týmu podporují Red Hat Why, misi, vizi a strategii.
-    Pomáhají každému porozumět tomu, jak jeho práce přispívá týmu, jeho oddělení a firmě Red Hat.
-    Sdílejí kontext strategických a organizačních zpráv od vysokých vedoucích pracovníků a popisují dopad na jejich tým.
-    Otevřeně se vypořádají s konfliktními prioritami, nestejným směrováním a dalšími obtížnými problémy.
+  - Pomáhají každému porozumět tomu, jak jeho práce přispívá týmu, jeho oddělení a firmě Red Hat.
+  - Sdílejí kontext strategických a organizačních zpráv od vysokých vedoucích pracovníků a popisují dopad na jejich tým.
+  - Otevřeně se vypořádají s konfliktními prioritami, nestejným směrováním a dalšími obtížnými problémy.
 
 ### Otevření manažeři NEdělají
 
-    Přehlížejí nebo podceňují potřebu lidí porozumět "proč" ve většině situací.
-    Přehlížejí potřebu přispět svými myšlenkami k různým tématům.
-    Činí rozhodnutí bez zohlednění dopadu na jiné týmy nebo společnost.
-    Předpokládají, že spolupracovníci rozumí kontextu a důvodům důležitých rozhodnutí a oznámení.
-    Používají odmítavé fráze, jako jsou "protože jsem to řekl", "nemusíš to vědět",
+  - Přehlížejí nebo podceňují potřebu lidí porozumět "proč" ve většině situací.
+  - Přehlížejí potřebu přispět svými myšlenkami k různým tématům.
+  - Činí rozhodnutí bez zohlednění dopadu na jiné týmy nebo společnost.
+  - Předpokládají, že spolupracovníci rozumí kontextu a důvodům důležitých rozhodnutí a oznámení.
+  - Používají odmítavé fráze, jako jsou "protože jsem to řekl", "nemusíš to vědět",
     "neptej se mě proč, jen mi věř", "nechápeš to", "to přesahuje tvou platovou třídu."
