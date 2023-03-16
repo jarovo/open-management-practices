@@ -1,7 +1,7 @@
 # Pokyny pro Otevřený Management
 
 - [Prosazování kutury Red Hatu](#prosazování-kultury-red-hat)
-- [Ispirování ke sdílenému záměru](#inspirování-ke-sdílenému-záměrus)
+- [Ispirování ke sdílenému záměru](#inspirování-ke-sdílenému-záměru)
 - Nábor, rozvoj a odměňování týmu pomocí praktik Red Hat
 - Dosahování výsledků prostřednictvím posílení
 - Činění rozhodnutí otevřeným a včasným způsobem
