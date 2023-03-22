@@ -27,13 +27,13 @@
 
 ### Otevření manažeri NEdělají
 
- - Používají jednu z hodnot Red Hatu, aby podpořili svůj pohled bez zohlednění ostatních hodnot.
- - Brání uváženým výzvám proti statusu quo.
- - Používají moc, strach, nebo titul k tomu aby vedl.
- - Používají kulturu jako záminku k neakci. Kultura by měla být vzpomenuta jako počátek
+ - Nepoužívají jednu z hodnot Red Hatu, aby podpořili svůj pohled bez zohlednění ostatních hodnot.
+ - Nebrání uváženým výzvám proti statusu quo.
+ - Nepoužívají moc, strach, nebo titul k tomu aby vedli.
+ - Nepoužívají kulturu jako záminku k neakci. Kultura by měla být vzpomenuta jako počátek
    konverzace - včetně poskytnutí kontextu proč by některé akce měly být očekávány. 
    Raději než jako konec konverzace.
- - Odrazují nebo zakazuje týmu používat otevřené komunikační fora jako jsou memo-list nebo chat.
+ - Neodrazují a nezakazuje týmu používat otevřené komunikační fora jako jsou memo-list nebo chat.
 
 
 ## Inspirování ke sdílenému záměru
@@ -49,23 +49,23 @@
 
 ### Otevření manažeři NEdělají
 
-  - Přehlížejí nebo podceňují potřebu lidí porozumět "proč" ve většině situací.
-  - Přehlížejí potřebu přispět svými myšlenkami k různým tématům.
-  - Činí rozhodnutí bez zohlednění dopadu na jiné týmy nebo společnost.
-  - Předpokládají, že spolupracovníci rozumí kontextu a důvodům důležitých rozhodnutí a oznámení.
-  - Používají odmítavé fráze, jako jsou "protože jsem to řekl", "nemusíš to vědět",
+  - Nepřehlížejí nebo podceňují potřebu lidí porozumět "proč" ve většině situací.
+  - Nepřehlížejí potřebu přispět svými myšlenkami k různým tématům.
+  - Nečiní rozhodnutí bez zohlednění dopadu na jiné týmy nebo společnost.
+  - Nepředpokládají, že spolupracovníci rozumí kontextu a důvodům důležitých rozhodnutí a oznámení.
+  - Nepoužívají odmítavé fráze, jako jsou "protože jsem to řekl", "nemusíš to vědět",
     "neptej se mě proč, jen mi věř", "nechápeš to", "to přesahuje tvou platovou třídu."
 
 ## Najmi, vyvíjej a odměňuj svůj tým pomocí Red Hat pokynů
 
+**Proč: Důsledné používání pokynů Red Hat vede k ke spravedlivějším rozhodnutím o talentech a zlepšenému zážitku zůčastněných napříč celou společností. Navíc zůčastnění často zůstávají nebo odejdou kvůli přímému vedení.**
 
-**Why: Consistent application of Red Hat's practices leads to more equitable talent decisions and an improved associate experience across the company. In addition, associates often stay or leave because of direct management.**
+### Co dělá otevřený vedoucí?
 
-### Open managers do
+#### Najímá
 
-#### Hire
-
-- Build a team with diverse perspectives by hiring for mindsets, behaviors, and attributes that add to Red Hat's culture.
+- Vytváří tým s diverzifikovanými perspektivami tak, že nabírá lidi s nastavením mysli, chováním, a atributy které jsou příspěvkem do kultury Red Hatu.
+- Aby byl najmut člověk s nejlepším talentem, snížen nechtěných předsudků a vytváří dojem, který na kandidáta působí pozitivně.
 - Use Red Hat's hiring and interviewing processes to hire the best talent, reduce unintended bias, and create a positive candidate experience.
 - Create a positive and engaging onboarding experience for new associates using onboarding resources provided to managers.
 
